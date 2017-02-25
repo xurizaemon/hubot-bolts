@@ -10,6 +10,6 @@
 #  xurizaemon
 module.exports = (robot) ->
   robot.respond /(take a moment|go away|stop repeating yourself)/i, (msg) ->
-    msg.send "Ok, that's me out -"
+    msg.send "OK, that's me out!"
     robot.logger.info "Exiting ..."
     process.exit(1)
