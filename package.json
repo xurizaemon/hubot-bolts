@@ -1,0 +1,23 @@
+{
+  "name": "hubot-bolts",
+  "version": "0.0.1",
+  "description": "Additional scripts for Bolts, a Hubot instance for CiviCRM.",
+  "main": "src/bolts.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Burgess <chris@fuzion.co.nz>",
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "hubot": ">=2.0"
+  },
+  "devDependencies": {
+    "coffee-script": ">=1.2.0"
+  }
+}
