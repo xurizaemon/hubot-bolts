@@ -2,9 +2,9 @@
 #  Kill the hubot process.
 #
 # Commands:
-#  @hubot go away - Exit (or reload) hubot.
-#  @hubot stop repeating yourself - Exit (or reload) hubot.
-#  @hubot take a moment - Exit (or reload) hubot.
+#  hubot go away - Exit (or reload) hubot.
+#  hubot stop repeating yourself - Exit (or reload) hubot.
+#  hubot take a moment - Exit (or reload) hubot.
 #
 # Author:
 #  xurizaemon
